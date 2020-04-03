@@ -1,3 +1,6 @@
+##Source
+##https://github.com/deepeshuniyal/aws_sts_get-session-token.git
+
 import configparser
 import os.path
 import sys
