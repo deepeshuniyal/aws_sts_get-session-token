@@ -8,5 +8,6 @@ Below are steps.
 4. run the python job.
     > **python aws_cli_sts_access.py** <br />
     it will ask you the MFA code.
+5. open new tab and run the aws cli command
 
 
